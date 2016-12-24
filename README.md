@@ -3,6 +3,8 @@ WorldVenues
 
 WorldVenues is an iPad app for armchair travelers. The app delivered exclusive, VIP access to the most beautiful music venues around the world. As a virtual coffee table app, users could browse through exclusive photography, rich written histories, and performances from within each site.
 
+[https://news.usc.edu/44397/classical-kusc-launches-app-for-digital-tours-of-concert-halls/](https://news.usc.edu/44397/classical-kusc-launches-app-for-digital-tours-of-concert-halls/)
+
 
 # History
 
